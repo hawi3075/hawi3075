@@ -24,14 +24,11 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 
 ---
 
-
 ## 📊 GitHub Stats & Metrics
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=hawi3075&theme=radical)
 
-![GitHub Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/README.md)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical)
+---
 
 ## 📬 Let's Connect
 
