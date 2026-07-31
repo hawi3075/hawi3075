@@ -24,6 +24,8 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 
 ---
 
+
+
 ## 📊 GitHub Stats & Metrics
 
 ![Hawi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical)
@@ -33,7 +35,6 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical)
-
 ---
 
 ## 📬 Let's Connect
