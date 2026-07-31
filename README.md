@@ -24,17 +24,24 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 
 ---
 
-
-
 ## 📊 GitHub Stats & Metrics
 
-![Hawi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hawi3075&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawi3075&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical" />
+</p>
+
 ---
 
 ## 📬 Let's Connect
