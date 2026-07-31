@@ -25,19 +25,13 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 ---
 
 
-
-
-
 ## 📊 GitHub Stats & Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=hawi3075&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/README.md)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical&no-frame=true&no-bg=true)
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical)
 
 ## 📬 Let's Connect
 
