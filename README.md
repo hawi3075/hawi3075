@@ -26,6 +26,8 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 
 
 
+
+
 ## 📊 GitHub Stats & Metrics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical&hide_border=true)
