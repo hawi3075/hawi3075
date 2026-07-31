@@ -30,9 +30,9 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hawi3075&theme=radical)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
