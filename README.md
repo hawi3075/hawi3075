@@ -24,16 +24,17 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 
 ---
 
+
+
 ## 📊 GitHub Stats & Metrics
 
-[![Hawi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Hawi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hawi3075&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hawi3075&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical&langs_count=8)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical)
 ---
 
 ## 📬 Let's Connect
