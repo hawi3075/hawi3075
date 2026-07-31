@@ -1,122 +1,42 @@
-<h1 align="center">Hi 👋, I'm Hawi Girma</h1>
+# Hi 👋, I'm Hawi Girma
 
-<h3 align="center">
-Software Engineering Student • Full-Stack Developer • AI Enthusiast
-</h3>
+### Software Engineering Student • Full-Stack Developer • AI Enthusiast
 
-<p align="center">
-I enjoy building modern web applications, scalable backend systems, and AI-powered solutions.
-I'm passionate about writing clean code, solving real-world problems, and continuously learning new technologies.
-</p>
+I enjoy building modern web applications, scalable backend systems, and AI-powered solutions. I'm passionate about writing clean code, solving real-world problems, and continuously learning new technologies.
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Stack & Tools
 
-🎓 Final-Year Software Engineering Student
-
-💻 Full-Stack Web Developer
-
-🤖 Interested in Artificial Intelligence and Backend Engineering
-
-📚 Currently learning Cloud Computing, Docker, and System Design
-
-🌱 Always exploring new technologies and best development practices
+* **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3
+* **Frontend:** React, Tailwind CSS, Next.js
+* **Backend:** Node.js, Express.js
+* **Databases & ORM:** MongoDB, Mongoose, PostgreSQL
+* **Version Control & Tools:** Git, GitHub, VS Code, Postman, Vercel
 
 ---
 
-## 💼 What I Do
+## 🚀 Recent Projects
 
-✔ Build responsive web applications
-
-✔ Develop RESTful APIs
-
-✔ Design relational databases
-
-✔ Integrate AI into web applications
-
-✔ Collaborate using Git & GitHub
+* **Luu Safety:** Full-stack architecture for a safety equipment marketplace application, including authentication routes, database schemas, and inventory configuration.
+* **AuraSync:** Software subsystem, cloud database connections, and real-time dashboard for an IoT automation project.
+* **Efoy Gebya:** Frontend development and repository documentation for a modern e-commerce platform application.
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Stats & Metrics
 
-### Frontend
-HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+[![Hawi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Backend
-Node.js • Express.js • REST API • JWT Authentication
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hawi3075&theme=radical)](https://git.io/streak-stats)
 
-### Databases
-PostgreSQL • MySQL • MongoDB
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages
-JavaScript • TypeScript • Python • Java • C++
-
-### Tools
-Git • GitHub • Docker • VS Code • Postman • Figma
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🚀 Featured Projects
+## 📬 Let's Connect
 
-### 🛒 Luu Safety
-An e-commerce platform for safety equipment with authentication, shopping cart, and order management.
-
-### 🤖 University Chatbot
-An AI-powered chatbot that helps students access university information through intelligent document retrieval.
-
-### 👨‍💼 Employee Performance Evaluation System
-A web application developed during my internship to support employee performance assessment.
-
----
-
-## 🌱 Currently Learning
-
-• Cloud Computing
-
-• Docker
-
-• System Design
-
-• AI Integration
-
----
-
-## 📊 GitHub Stats
-
-(Add GitHub Stats Card)
-
----
-
-## 🔥 GitHub Streak
-
-(Add GitHub Streak Card)
-
----
-
-## 📈 Most Used Languages
-
-(Add Top Languages Card)
-
----
-
-## 🏆 GitHub Trophies
-
-(Add Trophy Card)
-
----
-
-## 📫 Let's Connect
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: your-linkedin
-
-🌐 Portfolio: your-portfolio
-
----
-
-<p align="center">
-Thanks for visiting my profile! ⭐
-</p>
+* **GitHub:** [hawi3075](https://github.com/hawi3075)
+* **Email:** [hawig3521@gmail.com](mailto:hawig3521@gmail.com)
