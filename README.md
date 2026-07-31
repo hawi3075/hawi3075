@@ -28,13 +28,13 @@ I enjoy building modern web applications, scalable backend systems, and AI-power
 
 ## 📊 GitHub Stats & Metrics
 
-![Hawi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hawi3075&theme=radical)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=hawi3075&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawi3075&theme=radical&no-frame=true&no-bg=true)
 ---
 
 ## 📬 Let's Connect
