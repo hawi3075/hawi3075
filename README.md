@@ -24,7 +24,7 @@ I am a Software Engineering student and full-stack developer who builds modern w
 
 **🎓 Education & Role**
 - 🧑‍💻 Software Engineering Student
-- 🏫 YOUR UNIVERSITY NAME
+- 🏫 adama science and thecnology
 - 💼 Full-Stack Developer
 
 **🎯 What I Focus On**
