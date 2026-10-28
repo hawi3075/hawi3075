@@ -98,17 +98,6 @@ I am a Software Engineering student and full-stack developer who builds modern w
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hawi3075&show_icons=true&theme=transparent&title_color=0891b2&icon_color=0891b2&text_color=94a3b8&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawi3075&layout=compact&theme=transparent&title_color=0891b2&text_color=94a3b8&hide_border=true" />
-  <br/><br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hawi3075&theme=react-dark&hide_border=true&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff" />
-</div>
-
----
-
 ## 📬 Let's Connect
 
 I'm open to internships, junior roles, and collaborations. Reach out any time.
