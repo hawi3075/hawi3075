@@ -16,7 +16,54 @@
 
 ## 👋 About Me
 
-I am a Software Engineering student and full-stack developer who builds modern web applications, mobile apps, and scalable backend systems. I enjoy turning real business needs, such as order management, evaluation, and inventory, into clean, reliable software, and I am continuously growing in AI-powered solutions.
+I am a Software Engineering student and full-stack developer who builds modern web applications, mobile apps, and scalable backend systems. I enjoy turning real business needs, such as order management, evaluation, and inventory, into clean, reliable software.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**🎓 Education & Role**
+- 🧑‍💻 Software Engineering Student
+- 🏫 YOUR UNIVERSITY NAME
+- 💼 Full-Stack Developer
+
+**🎯 What I Focus On**
+- 🌐 Building responsive web applications
+- 📱 Developing mobile apps
+- ⚙️ Designing secure and scalable backend APIs
+- 🗄️ Structuring efficient databases
+
+**🌱 Currently Learning**
+- 🔹 Advanced Next.js and system design
+- 🔹 AI-powered application development
+- 🔹 Cloud and deployment best practices
+
+  </td>
+    <td width="50%" valign="top">
+
+**💡 What I Value**
+- ✅ Writing clean, readable, maintainable code
+- ✅ Solving real-world business problems
+- ✅ Continuous learning and improvement
+- ✅ Teamwork and clear communication
+
+**🚀 What I've Built**
+- 🍽️ Restaurant order management
+- 📊 Performance evaluation
+- 💊 Pharmaceutical order management
+- 🎯 Bingo mobile app
+- 🏢 Business name correction
+
+**🤝 Open To**
+- 💼 Internships and junior roles
+- 👥 Team projects and collaborations
+- 🧪 Interesting side projects
+
+  </td>
+  </tr>
+</table>
+
+> 💬 *"I like building software that makes everyday work simpler."*
 
 ---
 
