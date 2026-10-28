@@ -24,7 +24,7 @@ I am a Software Engineering student and full-stack developer who builds modern w
 
 **🎓 Education & Role**
 - 🧑‍💻 Software Engineering Student
-- 🏫 adama science and thecnology
+- 🏫 Adama Science and Technology University (ASTU)
 - 💼 Full-Stack Developer
 
 **🎯 What I Focus On**
@@ -32,11 +32,11 @@ I am a Software Engineering student and full-stack developer who builds modern w
 - 📱 Developing mobile apps
 - ⚙️ Designing secure and scalable backend APIs
 - 🗄️ Structuring efficient databases
+- 🚀 Deploying live applications to Yegara and cPanel hosting
 
 **🌱 Currently Learning**
 - 🔹 Advanced Next.js and system design
 - 🔹 AI-powered application development
-- 🔹 Cloud and deployment best practices
 
   </td>
     <td width="50%" valign="top">
@@ -96,6 +96,11 @@ I am a Software Engineering student and full-stack developer who builds modern w
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+### 🌍 Deployment & Hosting
+<img src="https://img.shields.io/badge/Yegara_Hosting-0891B2?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
